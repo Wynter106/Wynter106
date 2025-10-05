@@ -12,8 +12,8 @@ I am strategically seeking roles where I can contribute immediately—from **Sof
 
 My experience spans various platforms, focusing on building scalable systems and optimizing user experience.
 
-| Category | Skills | Badges (Code to be added later) |
-| :--- | :--- | :--- |
+| Category | Skills |
+| :--- | :--- |
 | **Backend / Full-Stack** | Python, Java, Django, AWS, Docker |
 | **Frontend / Mobile** | JavaScript, React Native, Kotlin, Android Studio, .NET MAUI, Flutter(Dart) |
 | **Databases / Tools** | MySQL, Firebase, C++, Unity(C#), GitHub, Figma |
