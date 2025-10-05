@@ -24,7 +24,7 @@ My experience spans various platforms, focusing on building scalable systems and
 
 These three projects, which are pinned below, showcase my core competencies:
 
-#### 1. Astrology AI Site
+#### 1. Astrology AI Insight Generator
 - **Focus:** LLM Integration & Full-Stack Web Development
 - **Impact:** Built a dynamic web platform (React/Python) that generated personalized user readings by **successfully integrating a Large Language Model (LLM)** for dynamic text generation. *(Completed during MoOngy Internship)*
 
