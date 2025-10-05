@@ -52,6 +52,6 @@ While my academic focus is on development, I bring proven customer-facing proble
 | Platform | Link |
 | :--- | :--- |
 | **LinkedIn** | [linkedin.com/in/wynterK](https://linkedin.com/in/wynterK)|
-| **Email** | [womwynterward@gmail.com](womwynterward@gmail.com) |
+| **Email** | [womwynterward@gmail.com](mailto:womwynterward@gmail.com) |
 | **Location** | Salt Lake City, UT |
 | **Resume** | [Download CV](https://drive.google.com/file/d/1_D6j0ILk5zQUW3qyujTqkEjEoGPokB-u/view?usp=sharing) |
